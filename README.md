@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/banner github.jpg" width="100%" />
+</div>
 # 👋 Hey, I'm Ruban D.
 
 ### MSc Applied Data Science Student | Aspiring Data Scientist | AI/ML Enthusiast
