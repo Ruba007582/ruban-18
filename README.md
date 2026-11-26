@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/https://github.com/Ruba007582/ruban18/blob/main/banner%20github.jpg" width="100%" alt="Ruban GitHub Banner"/>
+  <img src="./assets/banner.jpg" width="100%" alt="Ruban GitHub Banner"/>
 </div>
 # 👋 Hey, I'm Ruban D.
 
